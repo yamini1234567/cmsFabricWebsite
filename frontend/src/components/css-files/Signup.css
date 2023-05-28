@@ -1,0 +1,124 @@
+#signup-body{
+    background-color: #0b0a0a;
+}
+
+
+
+.form-groupsignup{
+  padding-top: 5px;
+ 
+}
+
+#heading{
+  /*margin-left: 150px;*/
+  color: teal;
+
+}
+  .signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 215vh;
+  }
+/*#2d2c2c      */
+ 
+  
+  .form-signup {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    background-color: #000000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-groupsignup {
+    margin-bottom: 20px;
+  }
+  
+  /*.label-signup {
+    font-weight: bold;
+  }*/
+  
+
+/*
+  #otp-signup{
+    margin-left: 133px;
+  }
+  #name-signup{
+    margin-left: 123px;
+  }
+  
+  #email-signup{
+    margin-left: 123px;
+  }
+  #mobile-signup{
+    margin-left: 50px;
+  }
+  
+  #password-signup{
+    margin-left: 90px;
+  }
+  
+  #confirmPassword-signup{
+    margin-left: 25px;
+  }
+  */
+  
+/*#email-signup{
+  margin-left: 65px;
+}*/
+
+
+/*#mobile-signup{
+  /* margin-left: 65px; 
+}*/
+
+#otp-signup{
+  margin-top: 50px;
+  margin-left: 2px;
+}
+
+
+  .input-sigup {
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+ .btn-verify{
+    margin-left: 2px;
+    background-color:	#008080 ;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+ }
+
+  
+  
+  .btn-signup {
+   /* margin-left: 180px;*/
+    background-color:	#008080 ;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn-singup:hover {
+    background-color:  #00ffdd97;
+  }
+  #login-link{
+    text-decoration: none;
+    color: teal;
+  }

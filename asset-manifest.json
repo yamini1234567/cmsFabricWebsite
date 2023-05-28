@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cmsFabricWebsite/static/css/main.43173007.css",
+    "main.js": "/cmsFabricWebsite/static/js/main.77324673.js",
+    "static/media/commerce.png": "/cmsFabricWebsite/static/media/commerce.457bea4f142b5443dec4.png",
+    "index.html": "/cmsFabricWebsite/index.html",
+    "main.43173007.css.map": "/cmsFabricWebsite/static/css/main.43173007.css.map",
+    "main.77324673.js.map": "/cmsFabricWebsite/static/js/main.77324673.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43173007.css",
+    "static/js/main.77324673.js"
+  ]
+}
